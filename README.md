@@ -1,6 +1,5 @@
-# Project Title
+# Interprocess-Socket-Communication
 
-Interprocess-Socket-Communication
 
 ## Getting Started 
 These instructions will teach you how to run my code in the Linux Command Line. Surely, you need in a Linux enivorment...
