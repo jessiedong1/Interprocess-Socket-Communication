@@ -11,7 +11,7 @@ Gcc JessieServer.o -o JessieServer
 ./JessieServer 8300
 Wait for client(s)
 ```
-### Clint Side
+### Client Side
 ```
 gcc -c JessieClient.c -o JessieClient.o
 gcc JessieClient.o -o JessieClient
